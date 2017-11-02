@@ -4,3 +4,4 @@ show_downloads: false
 google_analytics: UA-98638990-1
 theme: jekyll-theme-cayman
 github: [metadata]
+exclude: ['README.md', 'docs', 'index.org.md', 'thumbnail.png', 'script', 'Gemfile.lock', 'another-page.md', 'Gemfile', 'jekyll-theme-cayman.gemspec', 'LICENSE']
