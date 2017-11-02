@@ -3,7 +3,6 @@ _site
 Gemfile.lock
 *.gem
 _config.yml
-index.md
-index.md.bak
-another-page.md.bak
-another-page.md
+*.md
+*.bak
+
