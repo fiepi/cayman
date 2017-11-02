@@ -1,5 +1,6 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Home
+description: Mash Kyrielight
+show_downloads: false
+google_analytics: UA-98638990-1
 theme: jekyll-theme-cayman
+github: [metadata]
