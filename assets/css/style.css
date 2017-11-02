@@ -317,4 +317,4 @@ a:hover { text-decoration: underline; }
 
 .site-footer-credits { color: #819198; }
 
-.round-icon { width: 200px; height: 200px; border-radius: 50%; }
+.round-icon { width: auto; height: auto; border-radius: 50%; }
